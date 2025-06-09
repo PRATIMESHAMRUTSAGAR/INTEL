@@ -59,3 +59,9 @@ git add source/
 git add *.cs
 git commit -m "Initial commit with project files"
 h
+git checkout .
+git add .
+git commit -m "Remove unused files"
+git config --global user.email "pratimeshamruitsagar@gmail.com"
+git config --global user.name "pratimesh"
+git commit -m "Remove unused files"
