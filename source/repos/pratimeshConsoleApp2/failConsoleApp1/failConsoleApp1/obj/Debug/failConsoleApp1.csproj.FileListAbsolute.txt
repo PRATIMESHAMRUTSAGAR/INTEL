@@ -1,0 +1,7 @@
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\bin\Debug\failConsoleApp1.exe.config
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\bin\Debug\failConsoleApp1.exe
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\bin\Debug\failConsoleApp1.pdb
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\obj\Debug\failConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\obj\Debug\failConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\obj\Debug\failConsoleApp1.exe
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\failConsoleApp1\failConsoleApp1\obj\Debug\failConsoleApp1.pdb

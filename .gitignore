@@ -1,0 +1,21 @@
+# System files
+NTUSER.DAT*
+ntuser.dat.*
+
+# Personal directories
+Desktop/
+Downloads/
+Documents/
+Music/
+Videos/
+Pictures/
+Contacts/
+Favorites/
+Links/
+Saved Games/
+Searches/
+AppData/
+IntelGraphicsProfiles/
+INTEL.*
+OneDrive/
+3D objects/

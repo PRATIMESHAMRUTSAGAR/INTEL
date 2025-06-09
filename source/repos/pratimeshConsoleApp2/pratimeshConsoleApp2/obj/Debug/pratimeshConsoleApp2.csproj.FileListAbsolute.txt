@@ -1,0 +1,7 @@
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\bin\Debug\pratimeshConsoleApp2.exe.config
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\bin\Debug\pratimeshConsoleApp2.exe
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\bin\Debug\pratimeshConsoleApp2.pdb
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\obj\Debug\pratimeshConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\obj\Debug\pratimeshConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\obj\Debug\pratimeshConsoleApp2.exe
+C:\Users\INTEL\source\repos\pratimeshConsoleApp2\pratimeshConsoleApp2\obj\Debug\pratimeshConsoleApp2.pdb
