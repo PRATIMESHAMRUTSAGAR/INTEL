@@ -1,3 +1,7 @@
 [user]
 	email = pratimeshamruitsagar@gmail.com
 	name = pratimesh
+[safe]
+	directory = *
+[core]
+	autocrlf = true
