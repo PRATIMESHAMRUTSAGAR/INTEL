@@ -1,7 +1,12 @@
 [user]
-	email = pratimeshamruitsagar@gmail.com
-	name = pratimesh
+	email = pratimeshamrutsagar816@gmail.com
+	name = pratimesh Amrutsagar
 [safe]
 	directory = *
 [core]
 	autocrlf = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
